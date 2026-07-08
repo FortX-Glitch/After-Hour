@@ -1,5 +1,5 @@
 {
-  "event_active": true,
+  "event_active": false,
   "cash_multiplier": 2.0,
   "event_duration_minutes": 60,
   "vip_price": 500
